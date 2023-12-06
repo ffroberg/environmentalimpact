@@ -1,2 +1,2 @@
 # environmentalimpact
-This repo will investigate the usage of llm/ai models for environmental impact assessment of chemicals
+This repo will investigate the usage of ai models for environmental impact assessment of chemicals
